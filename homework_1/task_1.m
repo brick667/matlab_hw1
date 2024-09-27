@@ -26,3 +26,8 @@ circumference = 2*pi*radius
 fileID = fopen('VariableOperations.txt', 'w');
 fprintf(fileID, '%f %f\n', area, circumference');
 fclose(fileID);
+
+%git add homework_1/task_1.m
+%git status
+%git commit -m 'finished task1'
+%git push origin main
